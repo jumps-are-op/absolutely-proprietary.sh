@@ -30,7 +30,7 @@ absolutely-proprietary.sh  Shell script to find ABSOLUTELY PROPRIETARY packages
 Copyright (C) 2022 jumps are op
 This software is under GPLv3 and comes with ABSOLUTE NO WARRANTY
 
-USAGE: ./absolutely-proprietary.sh [-flS] [-n|-c] [-s file] [-m file] [-h file]
+USAGE: absolutely-proprietary.sh [-flS] [-n|-c] [-s file] [-m file] [-h file]
 
 OPTIONS:
  -f, --full          Print any proprietary packages, not just nonfree.

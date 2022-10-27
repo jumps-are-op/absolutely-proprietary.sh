@@ -11,7 +11,7 @@ in fast POSIX shell instead of slow python
 Difference between this and Vasilis Mavromatis's program
 * caching and ability to disable it
 * ability to ignore libre/ repo packages
-* save list as text, markdown, and html at the same time
+* ability to save output list as text, markdown, and html at the same time
 * POSIX complaint script
 * VERY FAST SPEED
 

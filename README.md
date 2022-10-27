@@ -10,7 +10,7 @@ cd absolutely-proprietary.sh
 # Update
 ```
 cd absolutely-proprietary.sh
-git pull https://github.com/vmavromatis/absolutely-proprietary.git
+git pull https://github.com/jumps-are-op/absolutely-proprietary.sh.git
 ```
 # Run
 ```

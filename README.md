@@ -2,6 +2,19 @@
 
 Shell script to find ABSOLUTELY PROPRIETARY packages for arch-based distros. Compares your installed packages against Parabola's package [blacklist](https://git.parabola.nu/blacklist.git/plain/blacklist.txt) and [aur-blacklist](https://git.parabola.nu/blacklist.git/plain/aur-blacklist.txt) and then prints your Stallman Freedom Index (free/total).
 
+# Original creator
+[absolutely-proprietary.sh](https://github.com/jumps-are-op/absolutely-proprietary.sh)
+is rewrite of
+[absolutely-proprietary](https://github.com/vmavromatis/absolutely-proprietary)
+in fast POSIX shell instead of slow python
+
+Difference between this and Vasilis Mavromatis's program
+* caching and ability to disable it
+* ability to ignore libre/ repo packages
+* save list as text, markdown, and html at the same time
+* POSIX complaint script
+* VERY FAST SPEED
+
 # Install
 ```
 git clone https://github.com/jumps-are-op/absolutely-proprietary.sh.git

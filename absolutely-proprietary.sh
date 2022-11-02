@@ -23,7 +23,7 @@ ${0##*/}  Shell script to find ABSOLUTELY PROPRIETARY packages
 Copyright (C) 2022 jumps are op
 This software is under GPLv3 and comes with ABSOLUTE NO WARRANTY
 
-USAGE: $0 [-flS] [-n|-c] [-s file] [-m file] [-h file]
+USAGE: ${0##*/} [-flS] [-n|-c] [-s file] [-m file] [-h file]
 
 OPTIONS:
  -f, --full          Print any proprietary packages, not just nonfree.
